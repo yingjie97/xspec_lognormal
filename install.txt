@@ -1,0 +1,7 @@
+/// type in XSPEC, please replace '...' with your own file path
+
+initpackage lntd lmodel.dat /.../vlntd
+
+lmod lntd /.../vlntd
+
+mo vlntd
