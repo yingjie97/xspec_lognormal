@@ -1,0 +1,8 @@
+/// please replace '...' with your own file path
+/// see details of how to add new models at https://heasarc.gsfc.nasa.gov/xanadu/xspec/manual/node313.html
+
+initpackage lnabs lmodel.dat /.../lnabs
+
+lmod lnabs /.../lnabs
+
+mo lnwabs
